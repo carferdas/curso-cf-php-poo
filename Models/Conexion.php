@@ -3,10 +3,10 @@
 	class Conexion{
 
 		private $datos = array(
-			"host" => "localhost",
-			"user" => "root",
-			"pass" => "carfer",
-			"db" => "proyecto"
+			"host" => "host",
+			"user" => "user",
+			"pass" => "pass",
+			"db" => "db"
 		);
 		private $con;
 
